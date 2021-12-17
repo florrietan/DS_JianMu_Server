@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f75057c2-0818-4c2b-bf12-896eee8c8d52" name="139.224.100.23" url="http://139.224.100.23">
+        <fileTransfer rootFolder="/root/florrie/ds-hw/JianMu" accessType="SFTP" host="139.224.100.23" port="22" sshConfigId="ede8ca2f-9c9f-4ea5-ae86-3f2c6af32261" sshConfig="root@139.224.100.23:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+[warn] /Users/florrie/JianMu/app/views/index.scala.html:26:21: object JavaConverters in package collection is deprecated (since 2.13.0): Use `scala.jdk.CollectionConverters` instead
+[warn]         @uploadForm.globalErrors.asScala.map { error: play.data.validation.ValidationError =>
+[warn]                     ^
+[warn] /Users/florrie/JianMu/app/views/index.scala.html:62:19: object JavaConverters in package collection is deprecated (since 2.13.0): Use `scala.jdk.CollectionConverters` instead
+[warn]         @condForm.globalErrors.asScala.map { error: play.data.validation.ValidationError =>
+[warn]                   ^
+[warn] two warnings found
+[info] /Users/florrie/JianMu/app/services/impl/DatasetServiceImpl.java: 某些输入文件使用或覆盖了已过时的 API。
+[info] /Users/florrie/JianMu/app/services/impl/DatasetServiceImpl.java: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。

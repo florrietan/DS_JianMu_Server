@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/florrie/JianMu/conf/logback.xml,/Users/florrie/JianMu/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/florrie/JianMu/conf/deploy.conf,/Users/florrie/JianMu/target/scala-2.13/classes/deploy.conf)
+[debug] 	(/Users/florrie/JianMu/conf/common.conf,/Users/florrie/JianMu/target/scala-2.13/classes/common.conf)
+[debug] 	(/Users/florrie/JianMu/conf/application.conf,/Users/florrie/JianMu/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/florrie/JianMu/conf/routes,/Users/florrie/JianMu/target/scala-2.13/classes/routes)
